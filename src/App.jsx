@@ -2,6 +2,8 @@ import { useState } from 'react'
 import Navbar from './components/Navbar'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
+
+
 import './components/style.css'
 import Hero from './components/Hero'
 import Delivery from './components/Delivery'
